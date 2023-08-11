@@ -8,7 +8,7 @@ const Header = () => {
   }
 
   return (
-    <div className="bg-white py-5 px-10 md:px-24 flex fixed w-full">
+    <div className="bg-white py-5 px-10 md:px-24 flex fixed w-full shadow">
       <div className="text-4xl  font-extrabold">W.</div>
       <div className="w-full justify-end flex items-center">
         <FaBars

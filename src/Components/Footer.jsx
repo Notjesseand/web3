@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../../src/assets/profile.jpg";
+import Profile from "../../src/assets/profile2.jpg";
 
 
 const Footer = () => {
