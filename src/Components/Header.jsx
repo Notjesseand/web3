@@ -35,7 +35,7 @@ const Header = () => {
         </div>
       </div>
       {isDropdownOpen && (
-        <div className="md:hidden bg-white shadow-lg w-full absolute left-0 right-0 mt-14">
+        <div className="md:hidden bg-white shadow-lg w-full absolute left-0 right-0 mt-14 px-8">
           {/* Dropdown content */}
           <button className="cursor-pointer text-[15px] mb-2 block">
             Home
